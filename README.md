@@ -36,13 +36,17 @@ V2rayNG<BR>
 
 ## 2.参数配置
 点击“+”，选择手动输入-[Trojan] (V2rayNG配置类似)<br>
+
+SagerNet 配置界面<br>
 <img src="img/Android/2.png" alt="Build Status"><br>
 <img src="img/Android/3.png" alt="Build Status"><br>
 <img src="img/Android/4.png" alt="Build Status"><br>
 <img src="img/Android/5.png" alt="Build Status"><br>
 
 V2rayNG 配置界面<BR>
-<img src="img/Android/22.png" alt="Build Status">
+<img src="img/Android/20.png" alt="Build Status"><br>
+<img src="img/Android/21.png" alt="Build Status"><br>
+<img src="img/Android/22.png" alt="Build Status"><br>
 
 ## 3.运行APP
 点击选中列表中的服务器，再右下角“V”形图标，启动VPN服务；<br>
