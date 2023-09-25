@@ -5,14 +5,28 @@
 端口：443<br>
 密码：1234!@#$qwer<br>
 
-## 本文档包含Android、Windows、mac系统的安装步骤。
+## Android、Windows、mac系统的安装步骤。
+
+[查看安卓配置教程](#一android手机客户端配置步骤)
+<br>
+[安卓apk下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/SN-0.8.1-beta02-arm64-v8a.apk)
+<br>
+<br>
+[查看Windows配置教程](#二windows客户端配置步骤)
+<br>
+[Windows客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayN-v4.32.zip)
+<br>
+<br>
+[查看Mac配置教程](#三mac客户端配置步骤)
+<br>
+[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Trojan-Qt5-v1.4.0.dmg)
+
 
 # 一、Android手机客户端配置步骤
 
 ## 1.APP安装文件
 拷贝到手机并安装，完成后点击图标运行<br>
 <img src="img/Android/1.png" alt="Build Status">
-
 
 ## 2.参数配置
 点击“+”，选择手动输入-[Trojan]<br>
