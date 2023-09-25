@@ -1,7 +1,7 @@
 # Android手机客户端配置步骤
 
 ## 1.APP安装文件
-拷贝到手机并安装，完成后点击图标运行
+拷贝到手机并安装，完成后点击图标运行<br>
 <img src="img/Android/1.png" alt="Build Status">
 
 
