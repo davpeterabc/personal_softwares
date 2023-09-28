@@ -11,8 +11,8 @@
 
 [查看安卓配置教程](#一android手机客户端配置步骤)
 <br>
-[1.安卓apk下载链接 SagerNet](https://github.com/davpeterabc/personal_softwares/raw/main/SN-0.8.1-beta02-arm64-v8a.apk)<br>
-[2.安卓apk下载链接 V2rayNG](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayNG-v1.8.5.apk)
+...[安卓apk下载链接 SagerNet](https://github.com/davpeterabc/personal_softwares/raw/main/SN-0.8.1-beta02-arm64-v8a.apk)<br>...
+[安卓apk下载链接 V2rayNG](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayNG-v1.8.5.apk)
 <br>
 <br>
 [查看Windows配置教程](#二windows客户端配置步骤)
