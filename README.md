@@ -31,12 +31,12 @@
 
 ## 1.APP安装文件
 拷贝到手机并安装，完成后点击图标运行<br>
-...
+
 SagerNet<br>
-<img src="img/Android/1.png" alt="Build Status">
-...
+<img src="img/Android/1.png" alt="Build Status"><br>
+
 V2rayNG<BR>
-<img src="img/Android/11.png" alt="Build Status">
+<img src="img/Android/11.png" alt="Build Status"><br>
 
 ## 2.参数配置
 点击“+”，选择手动输入-[Trojan] (V2rayNG配置类似)<br>
