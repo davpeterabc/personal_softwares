@@ -11,9 +11,6 @@
 
 [查看安卓配置教程](#一android手机客户端配置步骤)
 <br>
-```
-[安卓apk下载链接 SagerNet](https://github.com/davpeterabc/personal_softwares/raw/main/SN-0.8.1-beta02-arm64-v8a.apk)<br>
-```
 [安卓apk下载链接 V2rayNG](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayNG-v1.8.5.apk)
 <br>
 <br>
@@ -32,31 +29,20 @@
 ## 1.APP安装文件
 拷贝到手机并安装，完成后点击图标运行<br>
 
-SagerNet<br>
-<img src="img/Android/1.png" alt="Build Status"><br>
-
 V2rayNG<BR>
 <img src="img/Android/11.png" alt="Build Status"><br>
 
 ## 2.参数配置
 点击“+”，选择手动输入-[Trojan] (V2rayNG配置类似)<br>
 
-SagerNet 配置界面<br>
-<img src="img/Android/2.png" alt="Build Status"><br>
-<img src="img/Android/3.png" alt="Build Status"><br>
-<img src="img/Android/4.png" alt="Build Status"><br>
-<img src="img/Android/5.png" alt="Build Status"><br>
-
-(2) V2rayNG 配置界面<BR>
+V2rayNG 配置界面<BR>
 <img src="img/Android/20.png" alt="Build Status"><br>
 <img src="img/Android/21.png" alt="Build Status"><br>
 <img src="img/Android/22.png" alt="Build Status"><br>
 
 ## 3.运行APP
 点击选中列表中的服务器，再右下角“V”形图标，启动VPN服务；<br>
-<img src="img/Android/6.png" alt="Build Status"><br>
-
-
+<img src="img/Android/23.png" alt="Build Status"><br>
 
 
 # 二、Windows客户端配置步骤
