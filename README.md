@@ -94,7 +94,7 @@ V2rayNG 配置界面<BR>
 
 # 四、IOS客户端安装
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
-[注册境外Apple ID]（https://oneclick.earth/help/appleid.html）
+[注册境外Apple ID](https://oneclick.earth/help/appleid.html)
 
 ## 2.下载OneClick
 <img src="img/qrcode.png" alt="Build Status"><br>
