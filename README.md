@@ -22,7 +22,9 @@
 [查看Mac配置教程](#三mac客户端配置步骤)
 <br>
 [Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Trojan-Qt5-v1.4.0.dmg)
-
+<br>
+[查看IOS配置教程](https://oneclick.earth/help/appleid.html)
+<br>
 
 # 一、Android手机客户端配置步骤
 
