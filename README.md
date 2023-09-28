@@ -11,7 +11,9 @@
 
 [查看安卓配置教程](#一android手机客户端配置步骤)
 <br>
-...[安卓apk下载链接 SagerNet](https://github.com/davpeterabc/personal_softwares/raw/main/SN-0.8.1-beta02-arm64-v8a.apk)<br>...
+...
+[安卓apk下载链接 SagerNet](https://github.com/davpeterabc/personal_softwares/raw/main/SN-0.8.1-beta02-arm64-v8a.apk)<br>
+...
 [安卓apk下载链接 V2rayNG](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayNG-v1.8.5.apk)
 <br>
 <br>
@@ -29,10 +31,10 @@
 
 ## 1.APP安装文件
 拷贝到手机并安装，完成后点击图标运行<br>
-
-(1) SagerNet<br>
+...
+SagerNet<br>
 <img src="img/Android/1.png" alt="Build Status">
-
+...
 V2rayNG<BR>
 <img src="img/Android/11.png" alt="Build Status">
 
