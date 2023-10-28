@@ -1,6 +1,6 @@
 # 自用免费trojan节点,可以访问一些国外常用网站(节点不定期更新)
 服务类型选择：trojan<br>
-服务器：otzyr.ddx.world <br>
+服务器：xrcse.ddx.world <br>
 服务器动态更新中，如果发现无法使用请查看本文件中最新的服务器<br>
 端口：443<br>
 密码：1234!@#$qwer<br>
