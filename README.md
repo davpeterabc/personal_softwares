@@ -37,14 +37,14 @@ websocket路径:/cd164d7a,<br>
 
 ## 2.参数配置
 点击“+”，选择“手动输入[VLESS]”<br>
-<img src="v2ray/A1.jpg" alt="Build Status" width="200"><br>
+<img src="v2ray/A1.jpg" alt="Build Status" width="500"><br>
 
 V2rayNG 配置界面<BR>
-<img src="v2ray/A2.jpg" alt="Build Status"><br>
+<img src="v2ray/A2.jpg" alt="Build Status" width="500><br>
 
 ## 3.运行APP
 点击选中列表中的服务器，再右下角“V”形图标，启动VPN服务；<br>
-<img src="v2ray/A3.jpg" alt="Build Status"><br>
+<img src="v2ray/A3.jpg" alt="Build Status" width="500><br>
 
 
 # 二、Windows客户端配置步骤
@@ -66,10 +66,10 @@ V2rayNG 配置界面<BR>
 <img src="img/Windows/4.png" alt="Build Status"><br>
 
 点击图标，打开软件界面-添加服务器<br>
-<img src="img/Windows/5.png" alt="Build Status"><br>
+<img src="v2ray/W1.jpg" alt="Build Status"><br>
 
 填写服务器参数<br>
-<img src="img/Windows/6.png" alt="Build Status"><br>
+<img src="v2ray/W2.jpg" alt="Build Status"><br>
 
 点击确定即完成配置。
 
