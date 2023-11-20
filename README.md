@@ -40,11 +40,11 @@ websocket路径:/cd164d7a,<br>
 <img src="v2ray/A1.jpg" alt="Build Status" width="500"><br>
 
 V2rayNG 配置界面<BR>
-<img src="v2ray/A2.jpg" alt="Build Status" width="500><br>
+<img src="v2ray/A2.jpg" alt="Build Status" width="500"><br>
 
 ## 3.运行APP
 点击选中列表中的服务器，再右下角“V”形图标，启动VPN服务；<br>
-<img src="v2ray/A3.jpg" alt="Build Status" width="500><br>
+<img src="v2ray/A3.jpg" alt="Build Status" width="500"><br>
 
 
 # 二、Windows客户端配置步骤
