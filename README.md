@@ -76,20 +76,7 @@ V2rayNG 配置界面<BR>
 
 # 三、Mac客户端配置步骤
 
-## 1.安装文件
-安装包拷贝到电脑并安装运行。<br>
-<img src="img/Mac/1.png" alt="Build Status"><br>
-<img src="img/Mac/2.png" alt="Build Status"><br>
-
-
-## 2.参数配置
-添加服务并配置参数，选择“Trojan”<br>
-<img src="img/Mac/3.png" alt="Build Status"><br>
-<img src="img/Mac/4-1.png" alt="Build Status"><br>
-截图中的服务器为示例，当前可用服务器信息请查看readme文件。<br>
-
-## 3.运行APP
-<img src="img/Mac/5-1.png" alt="Build Status"><br>
+待更新<br>
 
 # 四、IOS客户端安装
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
