@@ -1,9 +1,12 @@
-# 自用免费trojan节点,可以访问一些国外常用网站(节点不定期更新)
-服务类型选择：trojan<br>
-服务器：hpbfx.ddx.world <br>
-服务器动态更新中，如果发现无法使用请查看本文件中最新的服务器<br>
-端口：443<br>
-密码：1234!@#$qwer<br>
+# 自用免费节点,可以访问一些国外常用网站(节点不定期更新)
+服务器类型: vless,
+别名:自己起个任意名称,
+地址: azzx.ddx.world,
+端口: 1443,
+用户id: 976a6798-0d7e-4b31-8c0a-06638622d519,
+传输协议: websocket (一般客户端中的选项为: ws),
+websocket路径:/cd164d7a,
+底层传输协议: tls
 
 
 
@@ -30,22 +33,18 @@
 # 一、Android手机客户端配置步骤
 
 ## 1.APP安装文件
-拷贝到手机并安装，完成后点击图标运行<br>
-
-V2rayNG<BR>
-<img src="img/Android/11.png" alt="Build Status"><br>
+拷贝到手机并安装，完成后点击图标运行(应用名称:v2rayNG)<br>
 
 ## 2.参数配置
-点击“+”，选择手动输入-[Trojan] (V2rayNG配置类似)<br>
+点击“+”，选择“手动输入[VLESS]”<br>
+<img src="v2ray/A1.jpg" alt="Build Status"><br>
 
 V2rayNG 配置界面<BR>
-<img src="img/Android/20.png" alt="Build Status"><br>
-<img src="img/Android/21.png" alt="Build Status"><br>
-<img src="img/Android/22.png" alt="Build Status"><br>
+<img src="v2ray/A2.jpg" alt="Build Status"><br>
 
 ## 3.运行APP
 点击选中列表中的服务器，再右下角“V”形图标，启动VPN服务；<br>
-<img src="img/Android/23.png" alt="Build Status"><br>
+<img src="v2ray/A3.jpg" alt="Build Status"><br>
 
 
 # 二、Windows客户端配置步骤
