@@ -1,12 +1,12 @@
 # 自用免费节点,可以访问一些国外常用网站(节点不定期更新)
-服务器类型: vless,
-别名:自己起个任意名称,
-地址: azzx.ddx.world,
-端口: 1443,
-用户id: 976a6798-0d7e-4b31-8c0a-06638622d519,
-传输协议: websocket (一般客户端中的选项为: ws),
-websocket路径:/cd164d7a,
-底层传输协议: tls
+服务器类型: vless,<br>
+别名:自己起个任意名称,<br>
+地址: azzx.ddx.world,<br>
+端口: 1443,<br>
+用户id: 976a6798-0d7e-4b31-8c0a-06638622d519,<br>
+传输协议: websocket (一般客户端中的选项为: ws),<br>
+websocket路径:/cd164d7a,<br>
+底层传输协议: tls<br>
 
 
 
@@ -37,7 +37,7 @@ websocket路径:/cd164d7a,
 
 ## 2.参数配置
 点击“+”，选择“手动输入[VLESS]”<br>
-<img src="v2ray/A1.jpg" alt="Build Status"><br>
+<img src="v2ray/A1.jpg" alt="Build Status" width="200"><br>
 
 V2rayNG 配置界面<BR>
 <img src="v2ray/A2.jpg" alt="Build Status"><br>
