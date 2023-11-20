@@ -95,22 +95,6 @@ V2rayNG 配置界面<BR>
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
 [注册境外Apple ID](https://oneclick.earth/help/appleid.html)
 
-## 2.下载OneClick
-<img src="img/qrcode.png" alt="Build Status"><br>
-
-## 3.配置OneClick
-
-打开软件并点击添加服务器<br>
-<img src="img/31.png" alt="Build Status"><br>
-
-点击服务器配置，选择Trojan<br>
-<img src="img/32.png" alt="Build Status"><br>
-<img src="img/33.png" alt="Build Status"><br>
-
-填写服务器信息<br>
-<img src="img/34.png" alt="Build Status"><br>
-
-使用（点击下图按钮开启/关闭vpn）<br>
-<img src="img/35.png" alt="Build Status"><br>
-<img src="img/36.png" alt="Build Status"><br>
+## 2.iOS请安装小火箭
+https://shadowsockshelp.github.io/ios/
 
