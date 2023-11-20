@@ -24,7 +24,7 @@ websocket路径:/cd164d7a,<br>
 <br>
 [查看Mac配置教程](#三mac客户端配置步骤)
 <br>
-[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Trojan-Qt5-v1.4.0.dmg)
+[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/blob/5f180309bd79367fd96263adf2e3e31649e2de3e/V2rayU.dmg)
 <br>
 <br>
 [查看IOS配置教程](#四IOS客户端安装)
@@ -76,7 +76,13 @@ V2rayNG 配置界面<BR>
 
 # 三、Mac客户端配置步骤
 
-待更新<br>
+安装V2rayU.dmg应用到mac<br>
+配置服务器：
+<img src="v2ray/M1.jpg" alt="Build Status" width="500"><br>
+<img src="v2ray/M2.jpg" alt="Build Status" width="500"><br>
+启动服务：
+<img src="v2ray/M3.jpg" alt="Build Status" width="500"><br>
+
 
 # 四、IOS客户端安装
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
