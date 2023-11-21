@@ -8,9 +8,10 @@
 websocket路径:/cd164d7a,<br>
 底层传输协议: tls<br>
 
-<b>额外id/AlterID: 0,  <a  style="color: red;>// AlterID, Vmess 请填0, 如果是Vless协议则不需要该项；</a><br>
+<b>额外id/AlterID: 0,  // AlterID, Vmess 请填0, 如果是Vless协议则不需要该项；<br>
 Vmess加密方式: aes-128-gcm,  // 如果是Vless协议则为none。</b></a>
 
+<a style="color: red;>测试<a>
 
 
 ## Android、Windows、mac系统的安装步骤。
