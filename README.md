@@ -12,7 +12,7 @@ websocket路径:/cd164d7a,<br>
 Vmess加密方式: aes-128-gcm,  // 如果是Vless协议则为none。</b></font>
 
 
-
+<font color= "#FF0000"> 内容</font> <br />
 
 ## Android、Windows、mac系统的安装步骤。
 
