@@ -2,7 +2,7 @@
 服务器类型: vless,<br>
 别名:自己起个任意名称,<br>
 地址: azzx.ddx.world,<br>
-端口: 6006,<br>
+端口: 6008,<br>
 用户id: 976a6798-0d7e-4b31-8c0a-06638622d519,<br>
 传输协议: websocket (一般客户端中的选项为: ws),<br>
 websocket路径:/cd164d7a,<br>
