@@ -32,6 +32,13 @@ websocket路径: /nogamenolife<br>
 
 ## 1.配置界面
 <img src="Screenshot/Android1.png" alt="Build Status" width="500"><br>
+<img src="Screenshot/Android2.png" alt="Build Status" width="500"><br>
+<img src="Screenshot/Android3.png" alt="Build Status" width="500"><br>
+<img src="Screenshot/Android4.png" alt="Build Status" width="500"><br>
+<img src="Screenshot/Android5.png" alt="Build Status" width="500"><br>
+<img src="Screenshot/Android6.png" alt="Build Status" width="500"><br>
+<img src="Screenshot/Android7.png" alt="Build Status" width="500"><br>
+
 
 # 二、Windows客户端配置步骤
 
