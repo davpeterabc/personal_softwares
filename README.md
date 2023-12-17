@@ -21,12 +21,12 @@ http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为
 <br>
 [查看Windows配置教程](#二windows客户端配置步骤)
 <br>
-[Windows客户端下载链接](https://raw.githubusercontent.com/davpeterabc/personal_softwares/main/Client/Clash.for.Windows.Setup.0.19.20.exe)
+[Windows客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Client/Clash.for.Windows.Setup.0.19.20.exe)
 <br>
 <br>
 [查看Mac配置教程](#三mac客户端配置步骤)
 <br>
-[Mac客户端下载链接](https://raw.githubusercontent.com/davpeterabc/personal_softwares/main/Client/ClashX.Meta.macOS.12.0+.zip)
+[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Client/ClashX.Meta.macOS.12.0+.zip)
 <br>
 <br>
 [查看IOS配置教程](#四IOS客户端安装)
