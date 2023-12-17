@@ -11,7 +11,9 @@ websocket路径: /nogamenolife<br>
 
 ## 订阅源<br>
 http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为示例的配置步骤<br>
-
+<br>
+<br>
+<br>
 ## Android、Windows、mac系统的安装步骤。
 
 [查看安卓配置教程](#一android手机客户端配置步骤)
