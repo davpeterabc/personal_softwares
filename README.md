@@ -42,10 +42,13 @@ websocket路径: /nogamenolife<br>
 
 # 二、Windows客户端配置步骤
 
-## 1.解压文件
-解压客户端程序到指定的安装路径，如：D:\Program Files<br>
-<img src="img/Windows/1.png" alt="Build Status"><br>
-
+## 1.配置界面
+<img src="Screenshot/clash-w1.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/clash-w2.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/clash-w3.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/clash-w4.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/clash-w5.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/clash-w6.png" alt="Build Status" width="600"><br>
 
 ## 2.配置客户端程序
 
