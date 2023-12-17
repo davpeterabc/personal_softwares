@@ -1,4 +1,6 @@
 # 自用免费节点,可以访问一些国外常用网站(节点不定期更新)
+
+## 手动配置参数
 服务器类型: Trojan<br>
 地址: sg1-ip-2.ddx.world<br>
 端口: 443<br>
@@ -7,6 +9,8 @@
 websocket路径: /nogamenolife<br>
 底层传输协议: tls<br>
 
+##订阅源
+http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为示例的配置步骤<br>
 
 ## Android、Windows、mac系统的安装步骤。
 
@@ -42,47 +46,21 @@ websocket路径: /nogamenolife<br>
 
 # 二、Windows客户端配置步骤
 
-## 1.配置界面
+## 1.配置界面<br>
 <img src="Screenshot/clash-w1.png" alt="Build Status" width="600"><br>
 <img src="Screenshot/clash-w2.png" alt="Build Status" width="600"><br>
 <img src="Screenshot/clash-w3.png" alt="Build Status" width="600"><br>
 <img src="Screenshot/clash-w4.png" alt="Build Status" width="600"><br>
+系统任务栏找到软件图标，右键重启软件<br>
 <img src="Screenshot/clash-w5.png" alt="Build Status" width="600"><br>
 <img src="Screenshot/clash-w6.png" alt="Build Status" width="600"><br>
 
-## 2.配置客户端程序
-
-双击运行客户端<br>
-<img src="img/Windows/2.png" alt="Build Status"><br>
-
-此时客户端软件已在任务栏通知区域（电脑右下角）显示<br>
-<img src="img/Windows/3.png" alt="Build Status"><br>
-
-鼠标右键点击上述图标，设置代理模式：<br>
-<img src="img/Windows/4.png" alt="Build Status"><br>
-
-点击图标，打开软件界面-添加服务器<br>
-<img src="v2ray/W1.jpg" alt="Build Status"><br>
-
-填写服务器参数<br>
-<img src="v2ray/W2.jpg" alt="Build Status"><br>
-
-点击确定即完成配置。
-
-
 # 三、Mac客户端配置步骤
 
-1.安装V2rayU.dmg应用到mac<br>
-<img src="v2ray/M.jpg" alt="Build Status" width="500"><br>
-<img src="v2ray/M0.jpg" alt="Build Status" width="500"><br>
-
-2.配置服务器：<br>
-<img src="v2ray/M1.jpg" alt="Build Status" width="500"><br>
-<img src="v2ray/M2.jpg" alt="Build Status" width="500"><br>
-
-3.启动服务：<br>
-<img src="v2ray/M3.jpg" alt="Build Status" width="500"><br>
-
+## 1.配置界面<br>
+<img src="Screenshot/mac1.PNG" alt="Build Status" width="600"><br>
+<img src="Screenshot/mac2.PNG" alt="Build Status" width="600"><br>
+<img src="Screenshot/mac3.PNG" alt="Build Status" width="600"><br>
 
 # 四、IOS客户端安装
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
