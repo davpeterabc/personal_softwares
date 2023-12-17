@@ -16,7 +16,7 @@ http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为
 
 [查看安卓配置教程](#一android手机客户端配置步骤)
 <br>
-[安卓apk下载链接](https://github.com/davpeterabc/personal_softwares/blob/main/Client/clash-for-android-2.4.9.apk)
+[安卓apk下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Client/clash-for-android-2.4.9.apk)
 <br>
 <br>
 [查看Windows配置教程](#二windows客户端配置步骤)
