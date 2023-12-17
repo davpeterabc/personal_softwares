@@ -1,53 +1,37 @@
 # 自用免费节点,可以访问一些国外常用网站(节点不定期更新)
-服务器类型: vless,<br>
-别名:自己起个任意名称,<br>
-地址: azzx.ddx.world,<br>
-端口: 30006, --更新时间2023.12.15<br>
-用户id: 976a6798-0d7e-4b31-8c0a-06638622d519,<br>
-传输协议: websocket (一般客户端中的选项为: ws),<br>
-websocket路径:/cd164d7a,<br>
+服务器类型: Trojan<br>
+地址: sg1-ip-2.ddx.world<br>
+端口: 443<br>
+用户id: VwIr2fHutH<br>
+传输协议: ws<br>
+websocket路径: /nogamenolife<br>
 底层传输协议: tls<br>
-
-<font color= #FF0000 ><b>额外id/AlterID: 0,  // AlterID, Vmess 请填0, 如果是Vless协议则不需要该项；<br>
-Vmess加密方式: aes-128-gcm,  // 如果是Vless协议则为none。</b></font>
 
 
 ## Android、Windows、mac系统的安装步骤。
 
 [查看安卓配置教程](#一android手机客户端配置步骤)
 <br>
-[安卓apk下载链接 V2rayNG](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayNG-v1.8.5.apk)
+[安卓apk下载链接](https://raw.githubusercontent.com/davpeterabc/personal_softwares/main/Client/clash-for-android-2.4.9.apk)
 <br>
 <br>
 [查看Windows配置教程](#二windows客户端配置步骤)
 <br>
-[Windows客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/v2rayN-v4.32.zip)
+[Windows客户端下载链接](https://raw.githubusercontent.com/davpeterabc/personal_softwares/main/Client/Clash.for.Windows.Setup.0.19.20.exe)
 <br>
 <br>
 [查看Mac配置教程](#三mac客户端配置步骤)
 <br>
-[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/V2rayU.dmg)
+[Mac客户端下载链接](https://raw.githubusercontent.com/davpeterabc/personal_softwares/main/Client/ClashX.Meta.macOS.12.0+.zip)
 <br>
 <br>
 [查看IOS配置教程](#四IOS客户端安装)
 <br>
 
-# 一、Android手机客户端配置步骤
+# 一、Android手机客户端配置
 
-## 1.APP安装文件
-拷贝到手机并安装，完成后点击图标运行(应用名称:v2rayNG)<br>
-
-## 2.参数配置
-点击“+”，选择“手动输入[VLESS]”<br>
-<img src="v2ray/A1.jpg" alt="Build Status" width="500"><br>
-
-V2rayNG 配置界面<BR>
-<img src="v2ray/A2.jpg" alt="Build Status" width="500"><br>
-
-## 3.运行APP
-点击选中列表中的服务器，再右下角“V”形图标，启动VPN服务；<br>
-<img src="v2ray/A3.jpg" alt="Build Status" width="500"><br>
-
+## 1.配置界面
+<img src="Screenshot/Android1.png" alt="Build Status" width="500"><br>
 
 # 二、Windows客户端配置步骤
 
