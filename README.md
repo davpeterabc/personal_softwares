@@ -9,7 +9,7 @@
 websocket路径: /nogamenolife<br>
 底层传输协议: tls<br>
 
-##订阅源<br>
+## 订阅源<br>
 http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为示例的配置步骤<br>
 
 ## Android、Windows、mac系统的安装步骤。
