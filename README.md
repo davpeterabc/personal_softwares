@@ -28,7 +28,7 @@ http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为
 <br>
 [查看Mac配置教程](#三mac客户端配置步骤)
 <br>
-[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Client/ClashX.Meta.macOS.12.0+.zip)
+[Mac客户端下载链接](https://github.com/davpeterabc/personal_softwares/raw/main/Client/Trojan-Qt5-v1.4.0.dmg)
 <br>
 <br>
 [查看IOS配置教程](#四IOS客户端安装)
@@ -60,9 +60,11 @@ http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为
 # 三、Mac客户端配置步骤
 
 ## 1.配置界面<br>
-<img src="Screenshot/mac1.PNG" alt="Build Status" width="600"><br>
-<img src="Screenshot/mac2.PNG" alt="Build Status" width="600"><br>
-<img src="Screenshot/mac3.PNG" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac1.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac2.pngG" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac3.pngG" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac4.pngG" alt="Build Status" width="600"><br>
 
 # 四、IOS客户端安装
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
