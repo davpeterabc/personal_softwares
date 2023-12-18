@@ -62,9 +62,9 @@ http://ae86.ddx.world/c1ash.yaml --推荐使用，以下说明均以订阅源为
 ## 1.配置界面<br>
 <img src="Screenshot/t-mac.png" alt="Build Status" width="600"><br>
 <img src="Screenshot/t-mac1.png" alt="Build Status" width="600"><br>
-<img src="Screenshot/t-mac2.pngG" alt="Build Status" width="600"><br>
-<img src="Screenshot/t-mac3.pngG" alt="Build Status" width="600"><br>
-<img src="Screenshot/t-mac4.pngG" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac2.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac3.png" alt="Build Status" width="600"><br>
+<img src="Screenshot/t-mac4.png" alt="Build Status" width="600"><br>
 
 # 四、IOS客户端安装
 ## 1.苹果安装VPN客户端，需要大陆境外Apple ID。请根据以下步骤获取。
