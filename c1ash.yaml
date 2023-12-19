@@ -1,0 +1,33 @@
+---
+# (HTTP and SOCKS5 in one port)
+mixed-port: 1081
+# RESTful API for clash
+external-controller: 127.0.0.1:9090
+allow-lan: true
+mode: rule
+log-level: warning
+
+proxies:
+  # Trojan
+  - name: "trojan"
+    type: trojan
+    server: sg1-ip-2.ddx.world
+    udp: true
+    port: 1443
+    password: VwIr2fHutH
+    sni: sg1-ip-2.ddx.world
+    # alpn:
+    #   - h2
+    #   - http/1.1
+    # skip-cert-verify: true
+
+proxy-groups:
+  - name: "PROXY"
+    type: select
+    proxies:
+      - "trojan"
+
+rules:
+  - GEOIP,CN,DIRECT
+  - DOMAIN-SUFFIX,ad.com,REJECT
+  - MATCH,PROXY
