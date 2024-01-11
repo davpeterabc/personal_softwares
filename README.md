@@ -3,7 +3,7 @@
 ## 手动配置参数
 服务器类型: Trojan<br>
 地址: sg1-ip-2.ddx.world<br>
-端口: 1443<br>
+端口: 30500<br>
 用户id: VwIr2fHutH<br>
 传输协议: ws<br>
 websocket路径: /nogamenolife<br>
